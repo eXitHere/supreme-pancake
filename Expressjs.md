@@ -1,7 +1,7 @@
 #### สร้าง Project ของ ExpressJS
 
 ```bash
-npm i express cors dotenv
+npm i express cors dotenv jsonwebtoken express-validation jsonwebtoken uuid passport passport-jwt bcryptjs multer minio
 ```
 
 #### Folder Structure
